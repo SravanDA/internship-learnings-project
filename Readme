@@ -1,1 +1,8 @@
-S Sravan - internship-learnings-project
+internship-learnings-project
+
+Frontend -> Npm Install (Npm update) -> npm start
+Backend -> uvicorn server:app --reload
+
+All the necessery packeges to be installed seperately 
+
+
