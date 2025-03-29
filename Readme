@@ -1,4 +1,5 @@
 internship-learnings-project
+Realtime AI Sales Assistant 
 
 Frontend -> Npm Install (Npm update) -> npm start
 Backend -> uvicorn server:app --reload
